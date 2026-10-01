@@ -111,17 +111,3 @@ Because of Next.js rewrites, you can test everything from a single URL!
 ## Contribution
 
 We welcome contributions to this project! If you're interested in helping us develop this system further, please refer to our `CONTRIBUTING.md` (to be created) for guidelines.
-
-## Team
-
-*(Team member names and roles will be listed here.)*
-
-## License
-
-*(License information will be provided here.)*
-
-## Screenshots/Demonstrations
-
-Below are some visual representations of our prototype in action:
-
-**Live Map with Tourist Movement and Alerts:**
